@@ -38,7 +38,7 @@ Included are seperate files for the various colours of the CivilianSedan , Sedan
  
 CivilianSedan (Olga) Fishing Items
 
-Sedan_02 (Sarka) Farming Iems
+Sedan_02 (Sarka) Farming Items
 
 OffroadHatchback (Ada) M4a1
 
